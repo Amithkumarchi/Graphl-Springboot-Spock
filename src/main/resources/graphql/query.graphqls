@@ -1,0 +1,16 @@
+#sample query to retrieve
+
+type Query{
+#retrieving all books
+allBooks: [Book]
+
+
+
+}
+
+# this is book
+type Book{
+id:Int
+name:String
+
+}
