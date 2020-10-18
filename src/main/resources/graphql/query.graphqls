@@ -2,10 +2,7 @@
 
 type Query{
 #retrieving all books
-allBooks: [Book]
-
-
-
+allBooks: Int
 }
 
 # this is book
