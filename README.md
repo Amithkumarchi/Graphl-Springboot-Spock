@@ -8,6 +8,7 @@ Postman version>=7
 
 If no postman is there directly you can run localhost:<portnumber>/playground
 
+For integrating with spring controller to run queries, please do check the code in the controller 
 
 #sample schema to retrieve
 
